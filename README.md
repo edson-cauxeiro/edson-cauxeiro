@@ -1,4 +1,5 @@
 
+
 ## Olá! Eu sou o Edson Cauxeiro 🖐️
 ### Amante de Tecnologia, entusiamado pelo saber...!
 
@@ -6,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-cauxeiro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_cauxeiro)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/@edson_cauxeiro)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edson_cauxeiro)
 
 
 ![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-cauxeiro&show_icons=true&theme=tokyonight)
